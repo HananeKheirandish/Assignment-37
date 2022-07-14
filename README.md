@@ -7,6 +7,10 @@ A graph of the number of orders per month and customers by city was drawn for Di
 Solve the Abalone problem as Regression and estimate the age of the oyster.
 MAE Loss, MSE Loss, Huber Loss and Hinge Loss were implemented.
 
+
+
+
+
 ## QrCode Reading
 Decode Qr code in python with using opencv detectAndDecode method.
 
